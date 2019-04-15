@@ -7,7 +7,7 @@ function NavBar() {
       <div className="usa-overlay"></div>
       <header className="usa-header usa-header--basic" role="banner">
         <div className="usa-nav-container">
-          <div className="usa-navbar">
+          <div className="usa-navbar display-inline">
             <div className="usa-logo" id="basic-logo">
               <em className="usa-logo__text"><a href="/" title="Home" aria-label="Home">VA Modernization</a></em>
             </div>
